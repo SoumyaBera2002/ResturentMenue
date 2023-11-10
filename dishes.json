@@ -1,0 +1,29 @@
+{
+    "categories": [
+        {
+            "name": "Appetizers",
+            "dishes": [
+                {
+                    "name": "Dish1",
+                    "description": "Description of Dish1",
+                    "price": 10.99,
+                    "image": "dish1.jpg"
+                },
+                // More dishes
+            ]
+        },
+        {
+            "name": "Main Courses",
+            "dishes": [
+                {
+                    "name": "Dish2",
+                    "description": "Description of Dish2",
+                    "price": 15.99,
+                    "image": "dish2.jpg"
+                },
+                // More dishes
+            ]
+        },
+        // More categories
+    ]
+}
